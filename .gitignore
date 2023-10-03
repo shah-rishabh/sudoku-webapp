@@ -1,6 +1,8 @@
 # folders
 .idea/
 .vscode/
+ocr_model/images/
+ocr_model/pyfiles/__pycache__/
 
 # files
 db.sqlite3
